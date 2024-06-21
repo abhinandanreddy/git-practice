@@ -1,1 +1,1 @@
-example1 text
+function ex2() { }

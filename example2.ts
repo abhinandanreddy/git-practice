@@ -1,1 +1,3 @@
-example2 text
+function ex() {
+
+}
